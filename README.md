@@ -1,15 +1,14 @@
-## Ola! Eu sou Vinicius Reis, entusiasta de desenvolvimento Front-End!😁
-<div align="center">
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ViniciusSouzaDosReis/7d9f8b1210763b0768a2eda576a7327a/raw/17c351dbf14ecbb2948bab94913e185dc1d4f66c/githubcard.svg"/>
+
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vinicius Reis</h1>
+<div align="left">
   <a href="https://github.com/ViniciusSouzaDosReis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSouzaDosReis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSouzaDosReis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
+- 🔥 Junior front-end developer with a passion for creating intuitive and visually appealing user experiences
+
+- 💬 Ask me about **JavaScript, HTML, CSS, TS**
 
   ##
  
