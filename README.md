@@ -1,4 +1,4 @@
-<img align="right" height="580em" width="50%" src="https://raw.githubusercontent.com/gist/ViniciusSouzaDosReis/7d9f8b1210763b0768a2eda576a7327a/raw/17c351dbf14ecbb2948bab94913e185dc1d4f66c/githubcard.svg"/>
+<img align="right" height="500em" width="40%" src="https://raw.githubusercontent.com/gist/ViniciusSouzaDosReis/7d9f8b1210763b0768a2eda576a7327a/raw/17c351dbf14ecbb2948bab94913e185dc1d4f66c/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vinicius Reis</h1>
 <div align="left">
   <a href="https://github.com/ViniciusSouzaDosReis">
@@ -10,9 +10,8 @@
 - 💬 Ask me about **JavaScript, HTML, CSS, TS**
 
   ##
- 
-<div align="left"> 
+  
+<div align="left" width="50%"> 
   <a href = "mailto:vinireis010305@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-souza-dos-reis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
