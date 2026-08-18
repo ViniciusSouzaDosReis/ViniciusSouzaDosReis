@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="Vinicius Souza dos Reis — Front-End Engineering">
+  <title>Vinicius Souza dos Reis — Front-End Engineering</title>
+
+  <defs>
+    <!-- gradiente neon que percorre o nome -->
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop id="s1" offset="0%"   stop-color="#3E9C8A"/>
+      <stop id="s2" offset="50%"  stop-color="#5BA377"/>
+      <stop id="s3" offset="100%" stop-color="#7A9B45"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#3E9C8A" stop-opacity="0"/>
+      <stop offset="25%"  stop-color="#3E9C8A" stop-opacity="1"/>
+      <stop offset="55%"  stop-color="#5BA377" stop-opacity="1"/>
+      <stop offset="85%"  stop-color="#7A9B45" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#7A9B45" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#E3E8EF" stroke-width="1"/>
+    </pattern>
+
+    <radialGradient id="fade">
+      <stop offset="45%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridMask">
+      <rect width="1000" height="260" fill="url(#fade)"/>
+    </mask>
+
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <clipPath id="typeClip">
+      <rect id="typeRect" x="341" y="182" width="320" height="30"/>
+    </clipPath>
+
+    <style>
+      @keyframes flow {
+        0%,100% { stop-color: #3E9C8A; }
+        33%     { stop-color: #5BA377; }
+        66%     { stop-color: #7A9B45; }
+      }
+      #s1 { animation: flow 7s ease-in-out infinite;         }
+      #s2 { animation: flow 7s ease-in-out -2.33s infinite;  }
+      #s3 { animation: flow 7s ease-in-out -4.66s infinite;  }
+
+      @keyframes typing { from { width: 0px; } to { width: 320px; } }
+      #typeRect { animation: typing 2.6s steps(35,end) .5s both; }
+
+      @keyframes blink { 0%,45% { opacity:1 } 55%,100% { opacity:0 } }
+      #caret { animation: blink 1.05s steps(1,end) infinite; }
+
+      @keyframes sweep { from { transform: translateX(-1000px) } to { transform: translateX(1000px) } }
+      #shine { animation: sweep 6s cubic-bezier(.5,0,.5,1) 1.2s infinite; }
+
+      @keyframes riseIn { from { opacity:0; transform: translateY(14px) } to { opacity:1; transform: translateY(0) } }
+      #name { animation: riseIn .9s cubic-bezier(.2,.8,.2,1) both; }
+      #ruleLine { animation: riseIn .9s cubic-bezier(.2,.8,.2,1) .18s both; }
+
+      @media (prefers-reduced-motion: reduce) {
+        #s1,#s2,#s3,#typeRect,#caret,#shine,#name,#ruleLine { animation: none; }
+        #typeRect { width: 320px; }
+      }
+    </style>
+  </defs>
+
+  <!-- fundo -->
+  <rect width="1000" height="260" fill="#FFFFFF"/>
+  <rect width="1000" height="260" fill="url(#grid)" mask="url(#gridMask)"/>
+
+
+  <!-- nome -->
+  <g id="name">
+    <text x="500" y="118" text-anchor="middle" fill="url(#neon)"
+          font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+          font-size="54" font-weight="800" letter-spacing="6" textLength="830" lengthAdjust="spacing">VINICIUS SOUZA DOS REIS</text>
+  </g>
+
+  <!-- régua -->
+  <g id="ruleLine">
+    <rect x="250" y="140" width="500" height="2" rx="1" fill="url(#rule)"/>
+  </g>
+
+  <!-- subtítulo -->
+  <text x="500" y="170" text-anchor="middle" fill="#57606A"
+        font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
+        font-size="15" letter-spacing="7" textLength="335" lengthAdjust="spacing">FRONT-END ENGINEERING</text>
+
+  <!-- linha "digitada" -->
+  <g clip-path="url(#typeClip)">
+    <text x="346" y="204" textLength="296" lengthAdjust="spacing" fill="#6E7781"
+          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
+          font-size="14">typescript<tspan fill="#D0D7DE"> · </tspan>react<tspan fill="#D0D7DE"> · </tspan>angular<tspan fill="#D0D7DE"> · </tspan>next</text>
+  </g>
+  <rect id="caret" x="650" y="192" width="8" height="15" fill="#3E9C8A"/>
+
+  <!-- brilho que varre -->
+  <rect id="shine" x="-160" y="0" width="160" height="260" fill="#0D1117" opacity=".05"/>
+
+  <!-- borda inferior -->
+  <rect x="0" y="258" width="1000" height="2" fill="url(#rule)"/>
+</svg>
