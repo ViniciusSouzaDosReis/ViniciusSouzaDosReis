@@ -69,9 +69,6 @@ Por aqui você vai encontrar alguns projetos de estudo. Seja muito bem-vindo e, 
 
 <img src="https://raw.githubusercontent.com/ViniciusSouzaDosReis/ViniciusSouzaDosReis/main/assets/divider.svg?v=1" width="100%" alt="">
 
-
-<img src="https://raw.githubusercontent.com/ViniciusSouzaDosReis/ViniciusSouzaDosReis/main/assets/divider.svg?v=1" width="100%" alt="">
-
 ## Atividade
 
 <div align="center">
