@@ -69,50 +69,6 @@ Por aqui você vai encontrar alguns projetos de estudo. Seja muito bem-vindo e, 
 
 <img src="https://raw.githubusercontent.com/ViniciusSouzaDosReis/ViniciusSouzaDosReis/main/assets/divider.svg?v=1" width="100%" alt="">
 
-## Em destaque
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [frontend-pipeline-chaos](https://github.com/ViniciusSouzaDosReis/frontend-pipeline-chaos)
-
-Um pipeline de testes propositalmente lento, usado como baseline mensurável. Documento o "antes" com números reais do GitHub Actions, aplico sharding, cache e testes por diff — e comparo o "depois".
-
-`Vite` `Vitest` `TypeScript` `GitHub Actions`
-
-</td>
-<td width="50%" valign="top">
-
-### [design-system-poc](https://github.com/ViniciusSouzaDosReis/design-system-poc)
-
-Monorepo de design system com Turborepo e Changesets: pacotes versionados de forma independente, build orquestrado e release previsível.
-
-`Turborepo` `Changesets` `TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [poc-deploy-npm](https://github.com/ViniciusSouzaDosReis/poc-deploy-npm)
-
-Biblioteca de componentes React publicada no npm com versionamento semântico automatizado, documentação viva no Storybook e review visual no Chromatic.
-
-`React` `Storybook` `Chromatic` `Changesets`
-
-</td>
-<td width="50%" valign="top">
-
-### [poc-sentry](https://github.com/ViniciusSouzaDosReis/poc-sentry)
-
-Observabilidade no front-end: captura de erros, contexto de sessão e rastreio do que o usuário realmente viu quando algo quebrou.
-
-`React` `Sentry` `Vite`
-
-</td>
-</tr>
-</table>
 
 <img src="https://raw.githubusercontent.com/ViniciusSouzaDosReis/ViniciusSouzaDosReis/main/assets/divider.svg?v=1" width="100%" alt="">
 
