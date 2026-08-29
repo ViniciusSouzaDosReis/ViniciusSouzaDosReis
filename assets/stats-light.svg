@@ -17,7 +17,7 @@
   <rect width="1000" height="240" rx="12" fill="#FBFCFD" stroke="#D8DEE6"/>
   <rect x="12" y="0" width="976" height="3" rx="1.5" fill="url(#stop)"/>
   <text x="44" y="48" fill="#57606A" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing="4">ATIVIDADE NO GITHUB</text>
-  <text x="956" y="48" text-anchor="end" fill="#6E7781" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11">atualizado em 28/08/2026</text>
+  <text x="956" y="48" text-anchor="end" fill="#6E7781" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11">atualizado em 29/08/2026</text>
   <text x="44" y="106" fill="url(#sneon)" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="42" font-weight="800">44</text>
   <text x="44" y="130" fill="#6E7781" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="10" letter-spacing="1.6">REPOSITÓRIOS PÚBLICOS</text>
   <text x="276" y="106" fill="url(#sneon)" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="42" font-weight="800">2.774</text>
